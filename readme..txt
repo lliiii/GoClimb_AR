@@ -1,3 +1,7 @@
+using
+unity 2022.3.8f1c1
+vuforia
+
 File bigger than 100mb
 delete libary
 delete package com.ptc.vuforia.engine-10.17.4
