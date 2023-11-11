@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="crag5" size="1.000000 1.332223" />
+    <ImageTarget name="crag7" size="1.000000 1.332223" />
+    <ImageTarget name="crag6" size="1.000000 0.749906" />
+    <ImageTarget name="merlion" size="1.000000 0.666250" />
+    <ImageTarget name="landmark" size="1.000000 1.335078" />
+    <ImageTarget name="crag3" size="1.000000 0.474074" />
+    <ImageTarget name="crag2" size="1.000000 1.333333" />
+    <ImageTarget name="rock" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>
